@@ -2,6 +2,8 @@
 
 ![Homepage Preview](preview.png)
 
+**DEMO: [https://lliang-8122.github.io/0225DRL_DIC1/](https://lliang-8122.github.io/0225DRL_DIC1/)**
+
 A premium, modern single-page personal website featuring a real-time dynamic clock and a glassmorphism-inspired design.
 
 ## 🚀 Features
