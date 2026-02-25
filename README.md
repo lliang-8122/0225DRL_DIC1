@@ -1,5 +1,7 @@
 # Personal Webpage - ZhiSong Liang
 
+![Homepage Preview](preview.png)
+
 A premium, modern single-page personal website featuring a real-time dynamic clock and a glassmorphism-inspired design.
 
 ## 🚀 Features
