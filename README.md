@@ -1,6 +1,6 @@
 # Personal Webpage - ZhiSong Liang
 
-![Homepage Preview](preview.png)
+![Homepage Preview](homepage.png)
 
 **DEMO: [https://lliang-8122.github.io/0225DRL_DIC1/](https://lliang-8122.github.io/0225DRL_DIC1/)**
 
